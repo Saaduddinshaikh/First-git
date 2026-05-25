@@ -10,7 +10,12 @@ export default function Home() {
     { photo: "/imb.jpg", name: "Work", description: "Productive workflow." },
     { photo: "/imb.jpg", name: "Nature", description: "Calm and clean." },
     { photo: "/imb.jpg", name: "City", description: "Modern style." },
-  ];
+    { photo: "/imb.jpg", name: "Ocean", description: "Refreshing view." },
+    { photo: "/imb.jpg", name: "Mountain", description: "Majestic peaks." },
+    { photo: "/imb.jpg", name: "City", description: "Modern style." },
+    { photo: "/imb.jpg", name: "Ocean", description: "Refreshing view." },
+    { photo: "/imb.jpg", name: "Mountain", description: "Majestic peaks." },
+];
 
   return (
     <div className="flex min-h-screen flex-col bg-zinc-50 font-sans dark:bg-black">
